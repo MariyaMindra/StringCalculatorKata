@@ -1,0 +1,4 @@
+StringCalculatorKata
+====================
+
+String Calculator Kata
